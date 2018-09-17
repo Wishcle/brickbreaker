@@ -1,11 +1,7 @@
-=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
 CIS 120 Game Project README
-PennKey: rcheese
-=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
 
-===================
-=: Core Concepts :=
-===================
+Core Concepts
+==
 
 - List the four core concepts, the features they implement, and why each feature
   is an appropriate use of the concept. Incorporate the feedback you got after
@@ -47,9 +43,8 @@ PennKey: rcheese
 
 	- I used ArrayLists to keep track of the projectiles and powerups that need to be drawn and updated because there is never a fixed amount of them.
 
-=========================
-=: Your Implementation :=
-=========================
+Your Implementation
+==
 
 - Provide an overview of each of the classes in your code, and what their
   function is in the overall game.
@@ -149,9 +144,8 @@ Menu
 	If I could do it all over, I might use multiple JComponents instead of just one or at least organize the main one better. I would also move more of the hard-coded things to text files (Sprites.java, Values.java).
 
 
-========================
-=: External Resources :=
-========================
+External Resources
+==
 
 - Cite any external resources (libraries, images, tutorials, etc.) that you may
   have used while implementing your game.
